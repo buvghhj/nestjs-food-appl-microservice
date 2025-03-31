@@ -1,7 +1,7 @@
 ## TanFood App
 
 <h1 align="center">
-  TanFood
+  Coming soon
   <br>
 </h1>
 
